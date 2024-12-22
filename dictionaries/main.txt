@@ -542,6 +542,7 @@ parser
 parsing
 path
 pattern
+payload
 pdb
 pi
 pickle
@@ -595,6 +596,8 @@ return
 reverse
 runtime
 s
+scalar
+scanf
 script
 scripting
 scripts
@@ -629,6 +632,7 @@ spaces
 spam
 spot
 sprintf
+sscanf
 stack
 stackless
 stand
@@ -957,6 +961,7 @@ zlib
 υποκλάσεις
 υποκλάση
 υποκλάσης
+υπομέρη
 υπομονάδων
 υποπακέτα
 υποπακέτο
